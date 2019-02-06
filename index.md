@@ -2,4 +2,4 @@
 
 Denne nettsiden er under utvikling.
 
-For spørsmål ta kontakt med staff@neta.no på e-post.
+For spørsmål ta kontakt med mail@neta.no.
