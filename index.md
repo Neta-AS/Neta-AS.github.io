@@ -1,4 +1,4 @@
-## Under konstruksjon
+# NETA.NO
 
-Siden er under utvikling.
+Denne nettsiden er under utvikling.
 For spørsmål ta kontakt med staff@neta.no på e-post.
